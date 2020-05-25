@@ -1,4 +1,4 @@
-package acd170130;
+package psd180000;
 import java.lang.reflect.Array;
 import java.util.Iterator;
 import java.util.Random;
@@ -6,11 +6,7 @@ import java.util.function.Consumer;
 
 /**
  *
- * Long Project 2: SkipList
- * @author Pranjal Deshmukh
- * @author Abhilasha Devkar
- * @author Aniket Pathak
- * @author Tanu Rampal
+ * 
  * @see Entry which provides the basic skeletion for Skip List
  * SkipList - Generalization of sorted linked lists for implementing Dictionary ADT (add, remove,
  * contains, floor, ceiling) in O(log n) per operation "with high probability".
